@@ -1,7 +1,7 @@
 body {
 font-family: 'Times New Roman', Times, serif;;
 background-color: #ffffff;
-padding: 100px;
+padding: 200px;
 }
 h1{
     color:#3b0b79;
@@ -9,7 +9,10 @@ h1{
 }
 p{ color:black;
     font-size: 17px;
+    font-style: initial;
+    font-weight: bolder;
 background-color:aquamarine; 
+background-size: 1px;
 box-shadow: 3px 3px 10px #001aff;
 padding: 15px 60px;
 border-radius: 15px;
