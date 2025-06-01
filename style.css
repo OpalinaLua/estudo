@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #9999;
+    padding: 100px ;
+}
+h1 {
+    color: #000;
+    text-shadow: 3px 3px 10px #953
+    ;
+ }
+ p {
+color:black;
+    font-size: 17px;
+background-color:aquamarine; 
+box-shadow: 3px 3px 10px #001aff;
+padding: 15px 60px;
+border-radius: 15px;
+font-weight:900;
+margin-top: 5px;
+ }
+
