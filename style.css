@@ -2,6 +2,7 @@ body {
 font-family: 'Times New Roman', Times, serif;;
 background-color: #ffffff;
 padding: 200px;
+text-align: center;
 }
 h1{
     color:#3b0b79;
@@ -12,7 +13,6 @@ p{ color:black;
     font-style: initial;
     font-weight: bolder;
 background-color:aquamarine; 
-background-size: 1px;
 box-shadow: 3px 3px 10px #001aff;
 padding: 15px 60px;
 border-radius: 15px;
